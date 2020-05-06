@@ -1,0 +1,792 @@
+[
+    {
+        "source": "aemon_targaryen",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "aemon_targaryen",
+        "destination": "order_maesters",
+        "relationship": "oath"
+    },
+    {
+        "source":"aemon_targaryen",
+        "destination":"house_targaryen",
+        "relationship": "blood"
+    },
+    {
+        "source": "will",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "jon_arryn",
+        "destination": "house_arryn",
+        "relationship": "blood"
+    },
+    {
+        "source": "jory_cassel",
+        "destination": "house_cassel",
+        "relationship": "blood"
+    },
+    {
+        "source": "jory_cassel",
+        "destination": "house_stark",
+        "relationship": "oath"
+    },
+    {
+        "source": "house_cassel",
+        "destination": "house_stark",
+        "relationship": "oath"
+    },
+    {
+        "source": "benjen_stark",
+        "destination": "house_stark",
+        "relationship": "blood"
+    },
+    {
+        "source": "benjen_stark",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "robert_baratheon",
+        "destination": "house_baratheon",
+        "relationship": "blood"
+    },
+    {
+        "source": "robert_baratheon",
+        "destination": "cersei_lannister",
+        "relationship": "marriage"
+    },
+    {
+        "source": "mordane",
+        "destination": "house_stark",
+        "relationship": "oath"
+    },
+    {
+        "source": "mordane",
+        "destination": "clergy",
+        "relationship": "oath"
+    },
+    {
+        "source": "syrio_forel",
+        "destination": "house_stark",
+        "relationship": "oath"
+    },
+    {
+        "source": "eddard_stark",
+        "destination": "house_stark",
+        "relationship": "blood"
+    },
+    {
+        "source": "eddard_stark",
+        "destination": "house_baratheon",
+        "relationship": "oath"
+    },
+    {
+        "source": "viserys_targaryen",
+        "destination": "house_targaryen",
+        "relationship": "blood"
+    },
+    {
+        "source": "rhaego",
+        "destination": "house_targaryen",
+        "relationship": "blood"
+    },
+    {
+        "source": "rakharo",
+        "destination": "house_targaryen",
+        "relationship": "oath"
+    },
+    {
+        "source": "yoren",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "renly_baratheon",
+        "destination": "house_baratheon",
+        "relationship": "blood"
+    },
+    {
+        "source": "rodrick_cassel",
+        "destination": "house_cassel",
+        "relationship": "oath"
+    },
+    {
+        "source": "irri",
+        "destination": "house_targaryen",
+        "relationship": "oath"
+    },
+    {
+        "source": "luwin",
+        "destination": "order_maesters",
+        "relationship": "oath"
+    },
+    {
+        "source": "qhorin",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "pyat_pree",
+        "destination": "order_warlocks",
+        "relationship": "oath"
+    },
+    {
+        "source": "doreah",
+        "destination": "xaro_xhoan_daxos",
+        "relationship": "lover"
+    },
+    {
+        "source": "xaro_xhoan_daxos",
+        "destination": "doreah",
+        "relationship": "lover"
+    },
+    {
+        "source": "xaro_xhoan_daxos",
+        "destination": "the_thirteen",
+        "relationship": "oath"
+    },
+    {
+        "source": "hoster_tully",
+        "destination": "house_tully",
+        "relationship": "blood"
+    },
+    {
+        "source": "jeor_mormont",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "jeor_mormont",
+        "destination": "house_mormont",
+        "relationship": "blood"
+    },
+    {
+        "source": "kyaznys_mo_nakloz",
+        "destination": "order_good_masters",
+        "relationship": "oath"
+    },
+    {
+        "source": "beric_dondarrion",
+        "destination": "house_dondarrion",
+        "relationship": "blood"
+    },
+    {
+        "source": "beric_dondarrion",
+        "destination": "order_brotherhood_without_banners",
+        "relationship": "oath"
+    },
+    {
+        "source": "ros",
+        "destination": "varys",
+        "relationship": "oath"
+    },
+    {
+        "source": "talisa_stark",
+        "destination": "robb_stark",
+        "relationship": "marriage"
+    },
+    {
+        "source": "robb_stark",
+        "destination": "house_stark",
+        "relationship": "blood"
+    },
+    {
+        "source": "catelyn_stark",
+        "destination": "eddard_stark",
+        "relationship": "marriage"
+    },
+    {
+        "source": "catelyn_stark",
+        "destination": "house_tully",
+        "relationship": "blood"
+    },
+    {
+        "source": "polliver",
+        "destination": "house_lanniser",
+        "relationship": "oath"
+    },
+    {
+        "source": "tansy",
+        "destination": "house_bolton",
+        "relationship": "oath"
+    },
+    {
+        "source": "joffrey_baratheon",
+        "destination": "house_baratheon",
+        "relationship": "blood"
+    },
+    {
+        "source": "karl_tanner",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "locke",
+        "destination": "house_bolton",
+        "relationship": "oath"
+    },
+    {
+        "source": "rast",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "lysa_arryn",
+        "destination": "petyr_baelish",
+        "relationship": "marriage"
+    },
+    {
+        "source": "lysa_arryn",
+        "destination": "jon_arryn",
+        "relationship": "marriage"
+    },
+    {
+        "source": "lysa_arryn",
+        "destination": "house_tully",
+        "relationship": "blood"
+    },
+    {
+        "source": "oberyn_martell",
+        "destination": "house_martell",
+        "relationship": "blood"
+    },
+    {
+        "source": "gregor_clegane",
+        "destination": "house_clegane",
+        "relationship": "blood"
+    },
+    {
+        "source": "gregor_clegane",
+        "destination": "house_lannister",
+        "relationship": "blood"
+    },
+    {
+        "source": "grenn",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "mag_mar_tun_doh_weg",
+        "destination": "order_free_folk",
+        "relationship": "oath"
+    },
+    {
+        "source": "pypar",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "styr",
+        "destination": "order_free_folk",
+        "relationship": "oath"
+    },
+    {
+        "source": "ygritte",
+        "destination": "jon_snow",
+        "relationship": "lover"
+    },
+    {
+        "source": "ygritte",
+        "destination": "order_free_folk",
+        "relationship": "oath"
+    },
+    {
+        "source": "jojen_reed",
+        "destination": "house_reed",
+        "relationship": "blood"
+    },
+    {
+        "source": "jojen_reed",
+        "destination": "house_stark",
+        "relationship": "oath"
+    },
+    {
+        "source": "shae",
+        "destination": "tyrion_lannister",
+        "relationship": "lover"
+    },
+    {
+        "source": "shae",
+        "destination": "tywin_lannister",
+        "relationship": "lover"
+    },
+    {
+        "source": "tywin_lannister",
+        "destination": "house_lannister",
+        "relationship": "blood"
+    },
+    {
+        "source": "mance_ryder",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "mance_ryder",
+        "destination": "order_free_folk",
+        "relationship": "oath"
+    },
+    {
+        "source": "janos_slynt",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "barristan_selmy",
+        "destination": "daenerys_targaryen",
+        "relationship": "oath"
+    },
+    {
+        "source": "karsi",
+        "destination": "order_free_folk",
+        "relationship": "oath"
+    },
+    {
+        "source": "shireen_baratheon",
+        "destination": "house_baratheon",
+        "relationship": "blood"
+    },
+    {
+        "source": "hizdhar_zo_loraq",
+        "destination": "house_targaryen",
+        "relationship": "oath"
+    },
+    {
+        "source": "selyse_baratheon",
+        "destination": "house_baratheon",
+        "relationship": "marriage"
+    },    
+    {
+        "source": "stannis_baratheon",
+        "destination": "house_baratheon",
+        "relationship": "blood"
+    },
+    {
+        "source": "myranda",
+        "destination": "ramsay_bolton",
+        "relationship": "lover"
+    },
+    {
+        "source": "meryn_trant",
+        "destination": "order_kingsguard",
+        "relationship": "oath"
+    },
+    {
+        "source": "myrcella_baratheon",
+        "destination": "house_baratheon",
+        "relationship": "blood"
+    },
+    {
+        "source": "jon_snow",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "jon_snow",
+        "destination": "house_stark",
+        "relationship": "oath"
+    },
+    {
+        "source": "jon_snow",
+        "destination": "house_targaryen",
+        "relationship": "blood"
+    },
+    {
+        "source": "jon_snow",
+        "destination": "daenerys_targaryen",
+        "relationship": "lover"
+    },
+    {
+        "source": "areo_hotah",
+        "destination": "house_martell",
+        "relationship": "oath"
+    },
+    {
+        "source": "doran_martell",
+        "destination": "house_martell",
+        "relationship": "blood"
+    },
+    {
+        "source": "trystane_martell",
+        "destination": "house_martell",
+        "relationship": "blood"
+    },
+    {
+        "source": "roose_bolton",
+        "destination": "house_bolton",
+        "relationship": "blood"
+    },
+    {
+        "source": "walda_bolton",
+        "destination": "ramsay_bolton",
+        "relationship": "marriage"
+    },
+    {
+        "source": "walda_bolton",
+        "destination": "house_frey",
+        "relationship": "blood"
+    },
+    {
+        "source": "balon_grejoy",
+        "destination": "house_greyjoy",
+        "relationship": "blood"
+    },
+    {
+        "source": "alisser_thorne",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "olly",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "arthur_dayne",
+        "destination": "order_kingsguard",
+        "relationship": "oath"
+    },
+    {
+        "source": "osha",
+        "destination": "house_stark",
+        "relationship": "oath"
+    },
+    {
+        "source": "hodor",
+        "destination": "house_stark",
+        "relationship": "oath"
+    },
+    {
+        "source": "aerys_targaryen",
+        "destination": "house_targaryen",
+        "relationship": "blood"
+    },
+    {
+        "source": "brynden_tully",
+        "destination": "house_tully",
+        "relationship": "blood"
+    },
+    {
+        "source": "waif",
+        "destination": "order_faceless_men",
+        "relationship": "oath"
+    },
+    {
+        "source": "rickon_stark",
+        "destination": "house_stark",
+        "relationship": "blood"
+    },
+    {
+        "source": "jon_umber",
+        "destination": "house_umber",
+        "relationship": "blood"
+    },
+    {
+        "source": "jon_umber",
+        "destination": "house_bolton",
+        "relationship": "oath"
+    },
+    {
+        "source": "ramsay_bolton",
+        "destination": "house_bolton",
+        "relationship": "blood"
+    },
+    {
+        "source": "pycelle",
+        "destination": "order_maesters",
+        "relationship": "oath"
+    },
+    {
+        "source": "pycelle",
+        "destination": "house_baratheon",
+        "relationship": "oath"
+    },
+    {
+        "source": "lancel_lannister",
+        "destination": "house_lannister",
+        "relationship": "blood"
+    },
+    {
+        "source": "lancel_lannister",
+        "destination": "order_sparrows",
+        "relationship": ""
+    },
+    {
+        "source": "high_sparrow",
+        "destination": "order_sparrows",
+        "relationship": "oath"
+    },
+    {
+        "source": "loras_tyrell",
+        "destination": "order_sparrows",
+        "relationship": "oath"
+    },
+    {
+        "source": "loras_tyrell",
+        "destination": "house_tyrell",
+        "relationship": "blood"
+    },
+    {
+        "source": "mace_tyrell",
+        "destination": "house_tyrell",
+        "relationship": "blood"
+    },
+    {
+        "source": "mace_tyrell",
+        "destination": "olenna_tyrell",
+        "relationship": "marriage"
+    },
+    {
+        "source": "kevan_lannister",
+        "destination": "house_lannister",
+        "relationship": "blood"
+    },
+    {
+        "source": "margaery_tyrell",
+        "destination": "house_tyrell",
+        "relationship": "blood"
+    },
+    {
+        "source": "margaery_tyrell",
+        "destination": "renly_baratheon",
+        "relationship": "marriage"
+    },
+    {
+        "source": "margaery_tyrell",
+        "destination": "joffrey_baratheon",
+        "relationship": "marriage"
+    },
+    {
+        "source": "margaery_tyrell",
+        "destination": "tommen_baratheon",
+        "relationship": "marriage"
+    },
+    {
+        "source": "tommen_baratheon",
+        "destination": "house_baratheon",
+        "relationship": "blood"
+    },
+    {
+        "source": "walder_rivers",
+        "destination": "house_frey",
+        "relationship": "blood"
+    },
+    {
+        "source": "lothar_frey",
+        "destination": "house_frey",
+        "relationship": "blood"
+    },
+    {
+        "source": "walder_frey",
+        "destination": "house_frey",
+        "relationship": "blood"
+    },
+    {
+        "source": "lyanna_stark",
+        "destination": "house_stark",
+        "relationship": "blood"
+    },
+    {
+        "source": "lyanna_stark",
+        "destination": "rhaegar_targaryen",
+        "relationship": "marriage"
+    },
+    {
+        "source": "rhaegar_targaryen",
+        "destination": "house_targaryen",
+        "relationship": "blood"
+    },
+    {
+        "source": "nymeria_sand",
+        "destination": "house_martell",
+        "relationship": "blood"
+    },
+    {
+        "source": "obara_sand",
+        "destination": "house_martell",
+        "relationship": "blood"
+    },
+    {
+        "source": "tyene_sand",
+        "destination": "house_martell",
+        "relationship": "blood"
+    },
+    {
+        "source": "randyll_tarly",
+        "destination": "house_tarly",
+        "relationship": "blood"
+    },
+    {
+        "source": "randyll_tarly",
+        "destination": "house_lannister",
+        "relationship": "oath"
+    },
+    {
+        "source": "dickon_tarly",
+        "destination": "house_tarly",
+        "relationship": "blood"
+    },
+    {
+        "source": "dickon_tarly",
+        "destination": "house_lannister",
+        "relationship": "oath"
+    },
+    {
+        "source": "petyr_baelish",
+        "destination": "house_stark",
+        "relationship": "oath"
+    },
+    {
+        "source": "petyr_baelish",
+        "destination": "house_arryn",
+        "relationship": "oath"
+    },
+    {
+        "source": "thoros_of_myr",
+        "destination": "order_brotherhood_without_banners",
+        "relationship": "oath"
+    },
+    {
+        "source": "ned_umber",
+        "destination": "house_umber",
+        "relationship": "blood"
+    },
+    {
+        "source": "ned_umber",
+        "destination": "house_stark",
+        "relationship": "oath"
+    },
+    {
+        "source": "lyanna_mormont",
+        "destination": "house_mormont",
+        "relationship": "blood"
+    },
+    {
+        "source": "lyanna_mormont",
+        "destination": "house_stark",
+        "relationship": "oath"
+    },
+    {
+        "source": "jorah_mormont",
+        "destination": "house_mormont",
+        "relationship": "blood"
+    },
+    {
+        "source": "jorah_mormont",
+        "destination": "house_targaryen",
+        "relationship": "oath"
+    },
+    {
+        "source": "eddison_tollett",
+        "destination": "order_nights_watch",
+        "relationship": "oath"
+    },
+    {
+        "source": "theon_greyjoy",
+        "destination": "house_greyjoy",
+        "relationship": "blood"
+    },
+    {
+        "source": "theon_greyjoy",
+        "destination": "house_stark",
+        "relationship": "oath"
+    },
+    {
+        "source": "melisandre",
+        "destination": "jon_snow",
+        "relationship": "oath"
+    },
+    {
+        "source": "melisandre",
+        "destination": "stannis_baratheon",
+        "relationship": "oath"
+    },
+    {
+        "source": "missandei",
+        "destination": "house_targaryen",
+        "relationship": "oath"
+    },
+    {
+        "source": "varys",
+        "destination": "house_targaryen",
+        "relationship": "oath"
+    },
+    {
+        "source": "harry_strickland",
+        "destination": "house_lannister",
+        "relationship": "oath"
+    },
+    {
+        "source": "euron_greyjoy",
+        "destination": "cersei_lannister",
+        "relationship": "lover"
+    },
+    {
+        "source": "euron_greyjoy",
+        "destination": "house_greyjoy",
+        "relationship": "blood"
+    },
+    {
+        "source": "qyburn",
+        "destination": "house_lannister",
+        "relationship": "oath"
+    },
+    {
+        "source": "qyburn",
+        "destination": "order_maesters",
+        "relationship": "oath"
+    },
+    {
+        "source": "sandor_clegane",
+        "destination": "house_baratheon",
+        "relationship": "oath"
+    },
+    {
+        "source": "sandor_clegane",
+        "destination": "house_clegane",
+        "relationship": "blood"
+    },
+    {
+        "source": "sandor_clegane",
+        "destination": "order_brotherhood_without_banners",
+        "relationship": "oath"
+    },
+    {
+        "source": "cersei_lannister",
+        "destination": "house_lannister",
+        "relationship": "blood"
+    },
+    {
+        "source": "cersei_lannister",
+        "destination": "jaime_lannister",
+        "relationship": "lover"
+    },
+    {
+        "source": "jaime_lannister",
+        "destination": "house_lannister",
+        "relationship": "blood"
+    },
+    {
+        "source": "jaime_lannister",
+        "destination": "order_kingsguard",
+        "relationship": "oath"
+    },
+    {
+        "source": "daenerys_targaryen",
+        "destination": "house_targaryen",
+        "relationship": "blood"
+    },
+    {
+        "source": "",
+        "destination": "",
+        "relationship": ""
+    },
+    {
+        "source": "",
+        "destination": "",
+        "relationship": ""
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "name": "targaryen",
+        "words": "fire_and_blood"
+    },
+    {
+        "name": "greyjoy",
+        "words": "we_do_not_sow"
+    },
+    {
+        "name": "arryn",
+        "words": "as_high_as_honour"
+    },
+    {
+        "name": "cassel",
+        "words": "unknown"
+    },
+    {
+        "name": "stark",
+        "words": "winter_is_coming"
+    },
+    {
+        "name": "baratheon",
+        "words": "ours_is_the_fury"
+    },
+    {
+        "name": "tully",
+        "words": "family_duty_honour"
+    },
+    {
+        "name": "mormont",
+        "words": "here_we_stand"
+    },
+    {
+        "name": "dondarrion",
+        "words": "unknown"
+    },
+    {
+        "name": "lannister",
+        "words": "hear_me_roar"
+    },
+    {
+        "name": "bolton",
+        "words": "our_blades_are_sharp"
+    },
+    {
+        "name": "baelish",
+        "words": "unknown"
+    },
+    {
+        "name": "martell",
+        "words": "unbowed_unbent_unbroken"
+    },
+    {
+        "name": "clegane",
+        "words": "unknown"
+    },
+    {
+        "name": "reed",
+        "words": "unknown"
+    },
+    {
+        "name": "selmy",
+        "words": "unknown"
+    },
+    {
+        "name": "umber",
+        "words": "unknown"
+    },
+    {
+        "name": "tyrell",
+        "words": "growing_strong"
+    },
+    {
+        "name": "frey",
+        "words": "we_stand_together"
+    },
+    {
+        "name": "tarly",
+        "words": "first_in_battle"
+    }
+]

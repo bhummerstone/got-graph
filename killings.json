@@ -1,0 +1,486 @@
+[
+    {
+        "killer": "eddard_stark",
+        "killee": "will"
+    },
+    {
+        "killer": "lysa_arryn",
+        "killee": "jon_arryn"
+    },
+    {
+        "killer": "petyr_baelish",
+        "killee": "jon_arryn"
+    },
+    {
+        "killer": "jaime_lannister",
+        "killee": "jory_cassel"
+    },
+    {
+        "killer": "white_walkers",
+        "killee": "benjen_stark"
+    },
+    {
+        "killer": "boar",
+        "killee": "robert_baratheon"
+    },
+    {
+        "killer": "jaime_lannister",
+        "killee": "mordane"
+    },
+    {
+        "killer": "meryn_trant",
+        "killee": "syrio_forel"
+    },
+    {
+        "killer": "ilyn_payne",
+        "killee": "eddard_stark"
+    },
+    {
+        "killer": "joffrey_baratheon",
+        "killee": "eddard_stark"
+    },
+    {
+        "killer": "drogo",
+        "killee": "viserys_targaryen"
+    },
+    {
+        "killer": "daenerys_targaryen",
+        "killee": "drogo"
+    },
+    {
+        "killer": "mirri_maz_duur",
+        "killee": "rhaego"
+    },
+    {
+        "killer": "amory_lorch",
+        "killee": "yoren"
+    },
+    {
+        "killer": "melisandre",
+        "killee": "renly_baratheon"
+    },
+    {
+        "killer": "stannis_baratheon",
+        "killee": "renly_baratheon"
+    },
+    {
+        "killer": "theon_greyjoy",
+        "killee": "rodrick_cassel"
+    },
+    {
+        "killer": "doreah",
+        "killee": "irri"
+    },
+    {
+        "killer": "osha",
+        "killee": "luwin"
+    },
+    {
+        "killer": "jon_snow",
+        "killee": "qhorin"
+    },
+    {
+        "killer": "drogon",
+        "killee": "pyat_pree"
+    },
+    {
+        "killer": "rhaegal",
+        "killee": "pyat_pree"
+    },
+    {
+        "killer": "viserion",
+        "killee": "pyat_pree"
+    },
+    {
+        "killer": "daenerys_targaryen",
+        "killee": "doreah"
+    },
+    {
+        "killer": "daenerys_targaryen",
+        "killee": "xaro_xhoan_daxos"
+    },
+    {
+        "killer": "rast",
+        "killee": "jeor_mormont"
+    },
+    {
+        "killer": "karl_tanner",
+        "killee": "craster"
+    },
+    {
+        "killer": "drogon",
+        "killee": "kraznys_mo_nakloz"
+    },
+    {
+        "killer": "sandor_clegane",
+        "killee": "beric_dondarrion"
+    },
+    {
+        "killer": "joffrey_baratheon",
+        "killee": "ros"
+    },
+    {
+        "killer": "lothar_frey",
+        "killee": "talisa_stark"
+    },
+    {
+        "killer": "roose_bolton",
+        "killee": "robb_stark"
+    },
+    {
+        "killer": "walder_rivers",
+        "killee": "catelyn_stark"
+    },
+    {
+        "killer": "arya_stark",
+        "killee": "polliver"
+    },
+    {
+        "killer": "ramsay_bolton",
+        "killee": "tansy"
+    },
+    {
+        "killer": "petyr_baelish",
+        "killee": "joffrey_baratheon"
+    },
+    {
+        "killer": "oleanna_tyrell",
+        "killee": "joffrey_baratheon"
+    },
+    {
+        "killer": "jon_snow",
+        "killee": "karl_tanner"
+    },
+    {
+        "killer": "bran_stark",
+        "killee": "locke"
+    },
+    {
+        "killer": "hodor",
+        "killee": "locke"
+    },
+    {
+        "killer": "ghost",
+        "killee": "rast"
+    },
+    {
+        "killer": "petyr_baelish",
+        "killee": "lysa_arryn"
+    },
+    {
+        "killer": "gregor_clegane",
+        "killee": "oberyn_martell"
+    },
+    {
+        "killer": "oberyn_martell",
+        "killee": "gregor_clegane"
+    },
+    {
+        "killer": "mag_mar_tun_doh_weg",
+        "killee": "grenn"
+    },
+    {
+        "killer": "grenn",
+        "killee": "mag_mar_tun_doh_weg"
+    },
+    {
+        "killer": "ygritte",
+        "killee": "pypar"
+    },
+    {
+        "killer": "jon_snow",
+        "killee": "styr"
+    },
+    {
+        "killer": "olly",
+        "killee": "ygritte"
+    },
+    {
+        "killer": "meera_reed",
+        "killee": "jojen_reed"
+    },
+    {
+        "killer": "tyrion_lannister",
+        "killee": "shae"
+    },
+    {
+        "killer": "tyrion_lannister",
+        "killee": "tywin_lannister"
+    },
+    {
+        "killer": "jon_snow",
+        "killee": "mance_rayder"
+    },
+    {
+        "killer": "jon_snow",
+        "killee": "janos_slynt"
+    },
+    {
+        "killer": "order_sons_of_the_harpy",
+        "killee": "barristan_selmy"
+    },
+    {
+        "killer": "order_wights",
+        "killee": "karsi"
+    },
+    {
+        "killer": "melisandre",
+        "killee": "shireen_baratheon"
+    },
+    {
+        "killer": "order_sons_of_the_harpy",
+        "killee": "hizdhar_zo_loraq"
+    },
+    {
+        "killer": "selyse_baratheon",
+        "killee": "selyse_baratheon"
+    },
+    {
+        "killer": "brienne_of_tarth",
+        "killee": "stannis_baratheon"
+    },
+    {
+        "killer": "theon_grejoy",
+        "killee": "myranda"
+    },
+    {
+        "killer": "arya_stark",
+        "killee": "meryn_trant"
+    },
+    {
+        "killer": "ellaria_sand",
+        "killee": "myrcella_baratheon"
+    },
+    {
+        "killer": "order_nights_watch",
+        "killee": "jon_snow"
+    },
+    {
+        "killer": "olly",
+        "killee": "jon_snow"
+    },
+    {
+        "killer": "alliser_thorne",
+        "killee": "jon_snow"
+    },
+    {
+        "killer": "tyene_sand",
+        "killee": "areo_hotah"
+    },
+    {
+        "killer": "ellaria_sand",
+        "killee": "doran_martell"
+    },
+    {
+        "killer": "obara_sand",
+        "killee": "trystane_martell"
+    },
+    {
+        "killer": "ramsay_bolton",
+        "killee": "roose_bolton"
+    },
+    {
+        "killer": "ramsay_bolton",
+        "killee": "walda_bolton"
+    },
+    {
+        "killer": "euron_greyjoy",
+        "killee": "balon_greyjoy"
+    },
+    {
+        "killer": "jon_snow",
+        "killee": "alliser_thorne"
+    },
+    {
+        "killer": "jon_snow",
+        "killee": "olly"
+    },
+    {
+        "killer": "eddard_stark",
+        "killee": "arthur_dayne"
+    },
+    {
+        "killer": "ramsay_bolton",
+        "killee": "osha"
+    },
+    {
+        "killer": "daenerys_targaryen",
+        "killee": "moro"
+    },
+    {
+        "killer": "night_king",
+        "killee": "three_eyed_raven"
+    },
+    {
+        "killer": "order_wights",
+        "killee": "hodor"
+    },
+    {
+        "killer": "jaime_lannister",
+        "killee": "aerys_targaryen"
+    },
+    {
+        "killer": "house_lannister",
+        "killee": "brynden_tully"
+    },
+    {
+        "killer": "arya_stark",
+        "killee": "waif"
+    },
+    {
+        "killer": "ramsay_bolton",
+        "killee": "rickon_stark"
+    },
+    {
+        "killer": "tormund",
+        "killee": "jon_umber"
+    },
+    {
+        "killer": "sansa_stark",
+        "killee": "ramsay_bolton"
+    },
+    {
+        "killer": "qyburn",
+        "killee": "pycelle"
+    },
+    {
+        "killer": "cersei_lannister",
+        "killee": "lancel_lannister"
+    },
+    {
+        "killer": "cersei_lannister",
+        "killee": "high_sparrow"
+    },
+    {
+        "killer": "cersei_lannister",
+        "killee": "loras_tyrell"
+    },
+    {
+        "killer": "cersei_lannister",
+        "killee": "mace_tyrell"
+    },
+    {
+        "killer": "cersei_lannister",
+        "killee": "kevan_lannister"
+    },
+    {
+        "killer": "cersei_lannister",
+        "killee": "margaery_tyrell"
+    },
+    {
+        "killer": "tommen_baratheon",
+        "killee": "tommen_baratheon"
+    },
+    {
+        "killer": "arya_stark",
+        "killee": "walder_rivers"
+    },
+    {
+        "killer": "arya_stark",
+        "killee": "lothar_frey"
+    },
+    {
+        "killer": "arya_stark",
+        "killee": "walder_frey"
+    },
+    {
+        "killer": "robert_baratheon",
+        "killee": "rhaegar_targaryen"
+    },
+    {
+        "killer": "euron_greyjoy",
+        "killee": "nymeria_sand"
+    },
+    {
+        "killer": "euron_greyjoy",
+        "killee": "obara_sand"
+    },
+    {
+        "killer": "cersei_lannister",
+        "killee": "tyene_sand"
+    },
+    {
+        "killer": "jaime_lannister",
+        "killee": "olenna_tyrell"
+    },
+    {
+        "killer": "drogon",
+        "killee": "randyll_tarly"
+    },
+    {
+        "killer": "drogon",
+        "killee": "dickon_tarly"
+    },
+    {
+        "killer": "arya_stark",
+        "killee": "petyr_baelish"
+    },
+    {
+        "killer": "order_wights",
+        "killee": "ned_umber"
+    },
+    {
+        "killer": "order_wights",
+        "killee": "lyanna_mormont"
+    },
+    {
+        "killer": "order_wights",
+        "killee": "jorah_mormont"
+    },
+    {
+        "killer": "order_wights",
+        "killee": "beric_dondarrion"
+    },
+    {
+        "killer": "order_wights",
+        "killee": "eddison_tollett"
+    },
+    {
+        "killer": "night_king",
+        "killee": "theon_greyjoy"
+    },
+    {
+        "killer": "arya_stark",
+        "killee": "night_king"
+    },
+    {
+        "killer": "missandei",
+        "killee": "gregor_clegane"
+    },
+    {
+        "killer": "drogon",
+        "killee": "varys"
+    },
+    {
+        "killer": "grey_worm",
+        "killee": "harry_strickland"
+    },
+    {
+        "killer": "jaime_lannister",
+        "killee": "euron_greyjoy"
+    },
+    {
+        "killer": "gregor_clegane",
+        "killee": "qyburn"
+    },
+    {
+        "killer": "sandor_clegane",
+        "killee": "gregor_clegane"
+    },
+    {
+        "killer": "sandor_clegane",
+        "killee": "sandor_clegane"
+    },
+    {
+        "killer": "daenerys_targaryen",
+        "killee": "cersei_lannister"
+    },
+    {
+        "killer": "daenerys_targaryen",
+        "killee": "jaime_lannister"
+    },
+    {
+        "killer": "jon_snow",
+        "killee": "daenerys_targaryen"
+    }
+]

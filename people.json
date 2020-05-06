@@ -1,0 +1,962 @@
+[
+    {
+        "firstName": "will",
+        "lastName": "",
+        "seasonOfDeath": 1,
+        "episodeOfDeath": 1,
+        "meansOfDeath": "beheaded",
+        "portrayedBy": "bronson_webb"
+    },
+    {
+        "firstName": "jon",
+        "lastName": "arryn",
+        "seasonOfDeath": 1,
+        "episodeOfDeath": 1,
+        "meansOfDeath": "poisoned",
+        "portrayedBy": "john_standing"
+    },
+    {
+        "firstName": "jory",
+        "lastName": "cassel",
+        "seasonOfDeath": 1,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "jamie_sives"
+    },
+    {
+        "firstName": "benjen",
+        "lastName": "stark",
+        "seasonOfDeath": 7,
+        "episodeOfDeath": 6,
+        "meansOfDeath": "killed",
+        "portrayedBy": "joseph_mawle"
+    },
+    {
+        "firstName": "robert",
+        "lastName": "baratheon",
+        "seasonOfDeath": 1,
+        "episodeOfDeath": 7,
+        "meansOfDeath": "gored",
+        "portrayedBy": "mark_addy"
+    },
+    {
+        "firstName": "boar",
+        "lastName": "",
+        "seasonOfDeath": 1,
+        "episodeOfDeath": 7,
+        "meansOfDeath": "spear",
+        "portrayedBy": "cgi"
+    },
+    {
+        "firstName": "mordane",
+        "lastName": "",
+        "seasonOfDeath": 1,
+        "episodeOfDeath": 8,
+        "meansOfDeath": "executed",
+        "portrayedBy": "susan_brown"
+    },
+    {
+        "firstName": "syrio",
+        "lastName": "forel",
+        "seasonOfDeath": 1,
+        "episodeOfDeath": 8,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "miltos_yerolemou"
+    },
+    {
+        "firstName": "eddard",
+        "lastName": "stark",
+        "seasonOfDeath": 1,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "beheaded",
+        "portrayedBy": "sean_bean"
+    },
+    {
+        "firstName": "viserys",
+        "lastName": "targaryen",
+        "seasonOfDeath": 1,
+        "episodeOfDeath": 6,
+        "meansOfDeath": "molten_gold",
+        "portrayedBy": "harry_lloyd"
+    },
+    {
+        "firstName": "drogo",
+        "lastName": "",
+        "seasonOfDeath": 1,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "smothered",
+        "portrayedBy": "jason_momoa"
+    },
+    {
+        "firstName": "rhaego",
+        "lastName": "",
+        "seasonOfDeath": 1,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "stillborn",
+        "portrayedBy": "wren_ros_elliot_sloan"
+    },
+    {
+        "firstName": "mirri",
+        "lastName": "maz_duur",
+        "seasonOfDeath": 1,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "burned",
+        "portrayedBy": "mia_soteriou"
+    },
+    {
+        "firstName": "rakharo",
+        "lastName": "",
+        "seasonOfDeath": 2,
+        "episodeOfDeath": 2,
+        "meansOfDeath": "killed",
+        "portrayedBy": "elyes_gabel"
+    },
+    {
+        "firstName": "yoren",
+        "lastName": "",
+        "seasonOfDeath": 2,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "francis_magee"
+    },
+    {
+        "firstName": "renly",
+        "lastName": "baratheon",
+        "seasonOfDeath": 2,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "gethin_anthony"
+    },
+    {
+        "firstName": "rodrick",
+        "lastName": "cassel",
+        "seasonOfDeath": 2,
+        "episodeOfDeath": 6,
+        "meansOfDeath": "beheaded",
+        "portrayedBy": "ron_donachie"
+    },
+    {
+        "firstName": "irri",
+        "lastName": "",
+        "seasonOfDeath": 2,
+        "episodeOfDeath": 7,
+        "meansOfDeath": "strangled",
+        "portrayedBy": "amrita_acharia"
+    },
+    {
+        "firstName": "luwin",
+        "lastName": "",
+        "seasonOfDeath": 2,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "donald_sumpter"
+    },
+    {
+        "firstName": "qhorin",
+        "lastName": "",
+        "seasonOfDeath": 2,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "simon_armstrong"
+    },
+    {
+        "firstName": "pyat",
+        "lastName": "pree",
+        "seasonOfDeath": 2,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "burned",
+        "portrayedBy": "ian_hanmore"
+    },
+    {
+        "firstName": "doreah",
+        "lastName": "",
+        "seasonOfDeath": 2,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "locked_in_vault",
+        "portrayedBy": "roxanne_mckee"
+    },
+    {
+        "firstName": "xaro",
+        "lastName": "xhoan_daxos",
+        "seasonOfDeath": 2,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "locked_in_vault",
+        "portrayedBy": "nonso_anozie"
+    },
+    {
+        "firstName": "hoster",
+        "lastName": "tully",
+        "seasonOfDeath": 3,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "illness",
+        "portrayedBy": "christopher_newman"
+    },
+    {
+        "firstName": "jeor",
+        "lastName": "mormont",
+        "seasonOfDeath": 3,
+        "episodeOfDeath": 4,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "james_cosmo"
+    },
+    {
+        "firstName": "craster",
+        "lastName": "",
+        "seasonOfDeath": 3,
+        "episodeOfDeath": 4,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "robert_pugh"
+    },
+    {
+        "firstName": "kraznys",
+        "lastName": "mo_nakloz",
+        "seasonOfDeath": 3,
+        "episodeOfDeath": 4,
+        "meansOfDeath": "burned",
+        "portrayedBy": "dan_hildebrand"
+    },
+    {
+        "firstName": "beric",
+        "lastName": "dondariion",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "richard_dormer"
+    },
+    {
+        "firstName": "ros",
+        "lastName": "",
+        "seasonOfDeath": 3,
+        "episodeOfDeath": 6,
+        "meansOfDeath": "shot",
+        "portrayedBy": "esme_bianco"
+    },
+    {
+        "firstName": "talisa",
+        "lastName": "stark",
+        "seasonOfDeath": 3,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "oona_chaplin"
+    },
+    {
+        "firstName": "robb",
+        "lastName": "stark",
+        "seasonOfDeath": 3,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "richard_madden"
+    },
+    {
+        "firstName": "catelyn",
+        "lastName": "stark",
+        "seasonOfDeath": 3,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "slit_throat",
+        "portrayedBy": "michelle_fairley"
+    },
+    {
+        "firstName": "polliver",
+        "lastName": "",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 1,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "andy_kellegher"
+    },
+    {
+        "firstName": "tansy",
+        "lastName": "",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 2,
+        "meansOfDeath": "dog",
+        "portrayedBy": "jazzy_de_lisser"
+    },
+    {
+        "firstName": "joffrey",
+        "lastName": "baratheon",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 2,
+        "meansOfDeath": "poisoned",
+        "portrayedBy": "jack_gleeson"
+    },
+    {
+        "firstName": "karl",
+        "lastName": "tanner",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "burn_gorman"
+    },
+    {
+        "firstName": "locke",
+        "lastName": "",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "neck_snapped",
+        "portrayedBy": "noah_taylor"
+    },
+    {
+        "firstName": "rast",
+        "lastName": "",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "dog",
+        "portrayedBy": "luke_barnes"
+    },
+    {
+        "firstName": "lysa",
+        "lastName": "arryn",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 7,
+        "meansOfDeath": "falling",
+        "portrayedBy": "kate_dickie"
+    },
+    {
+        "firstName": "oberyn",
+        "lastName": "martell",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 8,
+        "meansOfDeath": "skull_crushed",
+        "portrayedBy": "pedro_pascal"
+    },
+    {
+        "firstName": "gregor",
+        "lastName": "clegane",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 8,
+        "meansOfDeath": "poisoned",
+        "portrayedBy": "hafpor_julius_bjornsson"
+    },
+    {
+        "firstName": "grenn",
+        "lastName": "",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "killed",
+        "portrayedBy": "mark_stanley"
+    },
+    {
+        "firstName": "mag",
+        "lastName": "mar_tun_doh_weg",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "killed",
+        "portrayedBy": "neil_fingleton"
+    },
+    {
+        "firstName": "pypar",
+        "lastName": "",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "shot",
+        "portrayedBy": "josef_altin"
+    },
+    {
+        "firstName": "styr",
+        "lastName": "",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "bludgeoned",
+        "portrayedBy": "yuri_kolokolnikov"
+    },
+    {
+        "firstName": "ygritte",
+        "lastName": "",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "shot",
+        "portrayedBy": "rose_leslie"
+    },
+    {
+        "firstName": "jojen",
+        "lastName": "reed",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "thomas_brodie_sangster"
+    },
+    {
+        "firstName": "shae",
+        "lastName": "",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "strangled",
+        "portrayedBy": "sibel_kekilli"
+    },
+    {
+        "firstName": "tywin",
+        "lastName": "lannister",
+        "seasonOfDeath": 4,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "shot",
+        "portrayedBy": "charles_dance"
+    },
+    {
+        "firstName": "mance",
+        "lastName": "rayder",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 1,
+        "meansOfDeath": "shot",
+        "portrayedBy": "ciaran_hinds"
+    },
+    {
+        "firstName": "janos",
+        "lastName": "slynt",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "beheaded",
+        "portrayedBy": "dominic_carter"
+    },
+    {
+        "firstName": "barristan",
+        "lastName": "selmy",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 4,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "ian_mcelhinney"
+    },
+    {
+        "firstName": "aemon",
+        "lastName": "targaryen",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 7,
+        "meansOfDeath": "old_age",
+        "portrayedBy": "peter_vaughan"
+    },
+    {
+        "firstName": "karsi",
+        "lastName": "",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 8,
+        "meansOfDeath": "mauled",
+        "portrayedBy": "birgitte_hjort_sorensen"
+    },
+    {
+        "firstName": "shireen",
+        "lastName": "baratheon",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "burned",
+        "portrayedBy": "kerry_ingram"
+    },
+    {
+        "firstName": "hizdahr",
+        "lastName": "zo_loraq",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "joel_fry"
+    },
+    {
+        "firstName": "selyse",
+        "lastName": "baratheon",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "hanged",
+        "portrayedBy": "tara_fitzgerald"
+    },
+    {
+        "firstName": "stannis",
+        "lastName": "baratheon",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "executed",
+        "portrayedBy": "stephen_dillane"
+    },
+    {
+        "firstName": "myranda",
+        "lastName": "",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "falling",
+        "portrayedBy": "charlotte_hope"
+    },
+    {
+        "firstName": "meryn",
+        "lastName": "trant",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "slit_throat",
+        "portrayedBy": "ian_beattie"
+    },
+    {
+        "firstName": "myrcella",
+        "lastName": "baratheon",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "poisoned",
+        "portrayedBy": "nell_tiger_free"
+    },
+    {
+        "firstName": "jon",
+        "lastName": "snow",
+        "seasonOfDeath": 5,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "kit_harrington"
+    },
+    {
+        "firstName": "areo",
+        "lastName": "hotah",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 1,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "deobia_oparei"
+    },
+    {
+        "firstName": "doran",
+        "lastName": "martell",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 1,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "alexander_siddig"
+    },
+    {
+        "firstName": "trystane",
+        "lastName": "martell",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 1,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "toby_sebastian"
+    },
+    {
+        "firstName": "roose",
+        "lastName": "bolton",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 2,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "michael_mcelhatton"
+    },
+    {
+        "firstName": "walda",
+        "lastName": "bolton",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 2,
+        "meansOfDeath": "dog",
+        "portrayedBy": "elizabeth_webster"
+    },
+    {
+        "firstName": "balon",
+        "lastName": "greyjoy",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 2,
+        "meansOfDeath": "falling",
+        "portrayedBy": "patrick_malahide"
+    },
+    {
+        "firstName": "alliser",
+        "lastName": "thorne",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "hanged",
+        "portrayedBy": "owen_teale"
+    },
+    {
+        "firstName": "olly",
+        "lastName": "",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "hanged",
+        "portrayedBy": "brenock_oconnor"
+    },
+    {
+        "firstName": "arthur",
+        "lastName": "dayne",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "luke_roberts"
+    },
+    {
+        "firstName": "osha",
+        "lastName": "",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 4,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "natalia_tena"
+    },
+    {
+        "firstName": "moro",
+        "lastName": "",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 4,
+        "meansOfDeath": "burned",
+        "portrayedBy": "joe_naufahu"
+    },
+    {
+        "firstName": "three_eyed",
+        "lastName": "raven",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "killed",
+        "portrayedBy": "max_von_sydow"
+    },
+    {
+        "firstName": "hodor",
+        "lastName": "",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "killed",
+        "portrayedBy": "kristian_naim"
+    },
+    {
+        "firstName": "aerys",
+        "lastName": "targaryen",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 6,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "david_rintoul"
+    },
+    {
+        "firstName": "brynden",
+        "lastName": "tully",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 8,
+        "meansOfDeath": "killed",
+        "portrayedBy": "clive_russell"
+    },
+    {
+        "firstName": "waif",
+        "lastName": "",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 8,
+        "meansOfDeath": "killed",
+        "portrayedBy": "faye_marsay"
+    },
+    {
+        "firstName": "rickon",
+        "lastName": "stark",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "shot",
+        "portrayedBy": "art_parkinson"
+    },
+    {
+        "firstName": "jon",
+        "lastName": "umber",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "dean_s_jagger"
+    },
+    {
+        "firstName": "ramsay",
+        "lastName": "bolton",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 9,
+        "meansOfDeath": "dog",
+        "portrayedBy": "iwan_rheon"
+    },
+    {
+        "firstName": "pycelle",
+        "lastName": "",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "julian_glover"
+    },
+    {
+        "firstName": "lancel",
+        "lastName": "lannister",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "wildfire",
+        "portrayedBy": "eugene_simon"
+    },
+    {
+        "firstName": "high",
+        "lastName": "sparrow",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "wildfire",
+        "portrayedBy": "jonathan_pryce"
+    },
+    {
+        "firstName": "loras",
+        "lastName": "tyrell",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "wildfire",
+        "portrayedBy": "finn_jones"
+    },
+    {
+        "firstName": "mace",
+        "lastName": "tyrell",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "wildfire",
+        "portrayedBy": "roger_ashton_griffiths"
+    },
+    {
+        "firstName": "kevan",
+        "lastName": "lannister",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "wildfire",
+        "portrayedBy": "ian_gelder"
+    },
+    {
+        "firstName": "margaery",
+        "lastName": "tyrell",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "wildfire",
+        "portrayedBy": "natalie_dormer"
+    },
+    {
+        "firstName": "tommen",
+        "lastName": "baratheon",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "falling",
+        "portrayedBy": "dean_charles_chapman"
+    },
+    {
+        "firstName": "walder",
+        "lastName": "rivers",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "pie",
+        "portrayedBy": "tim_plester"
+    },
+    {
+        "firstName": "lothar",
+        "lastName": "frey",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "pie",
+        "portrayedBy": "daniel_tuite"
+    },
+    {
+        "firstName": "walder",
+        "lastName": "frey",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "slit_throat",
+        "portrayedBy": "david_bradley"
+    },
+    {
+        "firstName": "lyanna",
+        "lastName": "stark",
+        "seasonOfDeath": 6,
+        "episodeOfDeath": 10,
+        "meansOfDeath": "birth",
+        "portrayedBy": "aisling_franciosi"
+    },
+    {
+        "firstName": "rhaegar",
+        "lastName": "targaryen",
+        "seasonOfDeath": "",
+        "episodeOfDeath": "",
+        "meansOfDeath": "hammer",
+        "portrayedBy": "will_scolding"
+    },
+    {
+        "firstName": "nymeria",
+        "lastName": "sand",
+        "seasonOfDeath": 7,
+        "episodeOfDeath": 2,
+        "meansOfDeath": "strangled",
+        "portrayedBy": "jessica_henwick"
+    },
+    {
+        "firstName": "obara",
+        "lastName": "sand",
+        "seasonOfDeath": 7,
+        "episodeOfDeath": 2,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "keisha_castle_hughes"
+    },
+    {
+        "firstName": "tyene",
+        "lastName": "sand",
+        "seasonOfDeath": 7,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "poisoned",
+        "portrayedBy": "rosabell_laurenti_sellers"
+    },
+    {
+        "firstName": "olenna",
+        "lastName": "tyrell",
+        "seasonOfDeath": 7,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "poisoned",
+        "portrayedBy": "diana_rigg"
+    },
+    {
+        "firstName": "randyll",
+        "lastName": "tarly",
+        "seasonOfDeath": 7,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "burned",
+        "portrayedBy": "james_faulkner"
+    },
+    {
+        "firstName": "dickon",
+        "lastName": "tarly",
+        "seasonOfDeath": 7,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "burned",
+        "portrayedBy": "tom_hopper"
+    },
+    {
+        "firstName": "thoros",
+        "lastName": "of_myr",
+        "seasonOfDeath": 7,
+        "episodeOfDeath": 6,
+        "meansOfDeath": "froze",
+        "portrayedBy": "paul_kaye"
+    },
+    {
+        "firstName": "petyr",
+        "lastName": "baelish",
+        "seasonOfDeath": 7,
+        "episodeOfDeath": 7,
+        "meansOfDeath": "slit_throat",
+        "portrayedBy": "aidan_gillen"
+    },
+    {
+        "firstName": "ned",
+        "lastName": "umber",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 1,
+        "meansOfDeath": "killed",
+        "portrayedBy": "harry_grasby"
+    },
+    {
+        "firstName": "lyanna",
+        "lastName": "mormont",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "crushed",
+        "portrayedBy": "bella_ramsey"
+    },
+    {
+        "firstName": "eddison",
+        "lastName": "tollett",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "killed",
+        "portrayedBy": "ben_crompton"
+    },
+    {
+        "firstName": "jorah",
+        "lastName": "mormont",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "killed",
+        "portrayedBy": "iain_glen"
+    },
+    {
+        "firstName": "theon",
+        "lastName": "greyjoy",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "alfie_allen"
+    },
+    {
+        "firstName": "night",
+        "lastName": "king",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "vladimir_furdik"
+    },
+    {
+        "firstName": "melisandre",
+        "lastName": "",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 3,
+        "meansOfDeath": "old_age",
+        "portrayedBy": "carice_van_houten"
+    },
+    {
+        "firstName": "missandei",
+        "lastName": "",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 4,
+        "meansOfDeath": "beheaded",
+        "portrayedBy": "nathalie_emmanuel"
+    },
+    {
+        "firstName": "varys",
+        "lastName": "",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "burned",
+        "portrayedBy": "conleth_hill"
+    },
+    {
+        "firstName": "harry",
+        "lastName": "strickland",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "marc_rissmann"
+    },
+   {
+        "firstName": "euron",
+        "lastName": "greyjoy",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "pilou_asbaek"
+    },
+    {
+        "firstName": "qyburn",
+        "lastName": "",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "head_smashed",
+        "portrayedBy": "anton_lesser"
+    },
+   {
+        "firstName": "sandor",
+        "lastName": "clegane",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "falling",
+        "portrayedBy": "rory_mccann"
+    },
+    {
+        "firstName": "jaime",
+        "lastName": "lannister",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "crushed",
+        "portrayedBy": "nikolaj_coster_waldau"
+    },
+   {
+        "firstName": "cersei",
+        "lastName": "lannister",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 5,
+        "meansOfDeath": "crushed",
+        "portrayedBy": "lena_headey"
+    },
+    {
+        "firstName": "daenerys",
+        "lastName": "targaryen",
+        "seasonOfDeath": 8,
+        "episodeOfDeath": 6,
+        "meansOfDeath": "stabbed",
+        "portrayedBy": "emilia_clarke"
+    },
+    {
+        "firstName": "arya",
+        "lastName": "stark",
+        "seasonOfDeath": "",
+        "episodeOfDeath": "",
+        "meansOfDeath": "",
+        "portrayedBy": "maisie_williams"
+    },
+    {
+        "firstName": "sansa",
+        "lastName": "stark",
+        "seasonOfDeath": "",
+        "episodeOfDeath": "",
+        "meansOfDeath": "",
+        "portrayedBy": "sophie_turner"
+    }
+]
