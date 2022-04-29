@@ -4,7 +4,7 @@
   "description": "Demo app for graph capabilities",
   "main": "app.js",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.4",
     "gremlin": "3.4.4"
   },
   "scripts": {
